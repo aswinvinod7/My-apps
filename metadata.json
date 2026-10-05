@@ -1,0 +1,6 @@
+{
+  "name": "Aswin Breath",
+  "description": "Pranayama breath timer app to cultivate calm and focus through guided breathing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
